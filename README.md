@@ -64,7 +64,7 @@ Mesma estrutura para ambos os scripts:
 | code | phrase |
 |------|--------|
 | P001 | Construção e ampliação de UBS em municípios vulneráveis |
-| P001 | Formação de profissionais de saúde da família |
+| P002 | Formação de profissionais de saúde da família |
 |      | Implantação de energia solar comunitária |
 
 📌 Se `code` estiver vazio → é atribuído sequencialmente: `"1"`, `"2"`, `"3"`...
